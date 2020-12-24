@@ -1,0 +1,23 @@
+h1{
+	font-family: 'Bangers', cursive;
+}
+p{
+	font-size: 20px;
+	font-family: 'Nova Flat', cursive;
+}
+body {
+    /* background-color: #E5E4E2; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2POjEprHwB0gLaTjprYLyyi_84QKEJ6us7w&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a{
+	background-color: #0000009c
+}
+.carousel-caption{
+    color: #fff;
+    position: absolute;
+    top: 27%
+    left:82px;
+    font-size: 
+}
