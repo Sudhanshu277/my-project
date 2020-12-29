@@ -21,3 +21,13 @@ body {
     left:82px;
     font-size: 
 }
+.vi{
+    background-image: url(https://scontent.fbho2-1.fna.fbcdn.net/v/t1.0-9/128582829_396955738422662_3076077306840911264_o.jpg?_nc_cat=109&ccb=2&_nc_sid=a26aad&_nc_ohc=JKq9wVOnAuEAX9ChDkA&_nc_ht=scontent.fbho2-1.fna&oh=4c9fdc2ef5710f32877eedebc85d8667&oe=600D78F9);
+    
+    /*padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;*/
+    background-size: cover;
+    
+}
